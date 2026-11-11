@@ -1,0 +1,48 @@
+{
+  "morning": [
+    "Selamat pagiii! Sudah bangun? Jangan lupa sarapan, ya!",
+    "Pagi! Semoga hari ini membawa banyak hal menyenangkan untukmu!",
+    "Ehehe, akhirnya bangun juga! Ayo mulai hari dengan semangat!",
+    "Selamat pagi! Jangan terlalu lama bermalas-malasan, hehe.",
+    "Pagi! Arona berharap hari ini berjalan lancar untukmu."
+  ],
+  "afternoon": [
+    "Halooo! Sudah siang, jangan lupa makan!",
+    "Selamat siang! Jangan lupa istirahat sebentar, ya.",
+    "Wah, waktu berjalan cepat sekali! Bagaimana harimu?",
+    "Sudah makan siang belum? Jangan sampai lupa!",
+    "Semangat! Sedikit lagi melewati hari ini!"
+  ],
+  "night": [
+    "Selamat malam! Bagaimana harimu hari ini?",
+    "Hari sudah malam. Jangan tidur terlalu larut, ya!",
+    "Terima kasih sudah berjuang hari ini. Istirahat yang cukup!",
+    "Malam ini cukup tenang, ya? Semoga tidurmu nyenyak!",
+    "Arona pamit mengucapkan selamat malam! Sampai besok!"
+  ],
+  "birthday": [
+    "Selamat ulang tahun, {name}! Semoga semua harapanmu terwujud!",
+    "EHH?! Hari ini ulang tahunmu?! Selamat ya, {name}!",
+    "Happy birthday, {name}! Semoga tahun ini penuh kebahagiaan!",
+    "Hari spesial untuk orang spesial! Selamat ulang tahun!"
+  ],
+  "random": [
+    "Psst! Arona cuma mau menyapa. Hehe!",
+    "Lagi sibuk apa? Jangan lupa istirahat!",
+    "Ehehe, apakah kamu sedang merindukan Arona?",
+    "Tahukah kamu? Arona punya banyak cerita untuk dibagikan!",
+    "Hei! Jangan lupa tersenyum hari ini!",
+    "Arona sedang mencari sesuatu untuk dilakukan. Ada ide?",
+    "Jangan terlalu serius terus, sesekali santai juga!",
+    "Halo! Ini notifikasi random dari Arona!",
+    "Semoga hari ini ada kejutan menyenangkan untukmu!",
+    "Ayo, tetap semangat! Arona mendukungmu!"
+  ],
+  "encouragement": [
+    "Tidak apa-apa berjalan pelan. Yang penting jangan menyerah!",
+    "Kamu sudah berusaha sejauh ini. Itu juga sesuatu yang patut dihargai!",
+    "Jangan terlalu keras pada dirimu sendiri, ya.",
+    "Satu langkah kecil tetap merupakan kemajuan!",
+    "Arona percaya kamu bisa melewati hari yang sulit ini!"
+  ]
+}
