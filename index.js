@@ -1,3 +1,4 @@
+const startScheduler = require("./scheduler");
 const fs = require("fs");
 const readline = require("readline");
 
@@ -108,4 +109,8 @@ rl.on("line", (input) => {
 rl.on("close", () => {
   console.log("Arona offline.");
   process.exit(0);
+});
+startScheduler((category) => {
+  const message = randomMessage(category);
+  console.log(`[Arona] ${message}`);
 });
